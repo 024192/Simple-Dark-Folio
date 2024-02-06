@@ -1152,7 +1152,6 @@ footer .footer-iconTop a:hover i {
         padding: var(--padding);
         padding-bottom: 2rem;
         gap: 0rem;
-        ;
     }
 
     .about .about-pic {
@@ -1303,6 +1302,7 @@ footer .footer-iconTop a:hover i {
     .about {
         grid-template-columns: 1fr;
         place-items: center;
+        height: 130vh;
     }
 
     .about .about-pic {
