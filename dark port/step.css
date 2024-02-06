@@ -1361,7 +1361,7 @@ footer .footer-iconTop a:hover i {
 
     .header,
     .header.header.sticky {
-        background: orange;
+        /* background: orange; */
     }
 
     .home .home-content {
